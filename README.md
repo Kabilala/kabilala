@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's Up? I'm Kabilala 'Kaouthar Belkebir' </h1>
+<h1 align="center">Hey 👋 What's Up? I'm Kabilala aka Kaouthar Belkebir</h1>
 
 <p align="center">🚨 Offensive Security Enthusiast | 👩‍💻 Passionate About Pentesting | 🛡️ Future Cybersecurity Consultant</p>
 
@@ -8,14 +8,13 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,linux,bash,docker,git,aws" height="50" alt="stack" />
-  <img src="https://img.icons8.com/color/48/000000/burp-suite.png" height="48" alt="Burp Suite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VSCode" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-orange?logo=burpsuite&logoColor=white&style=for-the-badge" height="30" alt="burp suite badge" />
 </div>
 
 ---
 
-<img align="right" height="180" src="https://i.imgflip.com/65efzo.gif" alt="hacker gif" />
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="hacker gif" />
 
 ### 🧠 Currently learning:
 
@@ -54,15 +53,5 @@
 
 ---
 
-### 👾 Contribution Fun
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-> 🧩 "In a world full of firewalls, be the Zero-Day they never saw coming."  
+> 🧩 *"In a world full of firewalls, be the Zero-Day they never saw coming."*  
 > — Kabilala
