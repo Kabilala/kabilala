@@ -1,58 +1,57 @@
-# 👋 Hey, I'm **Kabilala**
 
-## 🚀 Cybersecurity Enthusiast | Aspiring Penetration Tester | Lifelong Learner
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/Kabilala" target="_blank">Kaouthar-belkebir"kabilala"</a></h1>
+<h3 align="center">Cybersecurity Enthusiast | Aspiring Penetration Tester</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaouthar-belkebir-ab453223b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kabilala-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kabilala-blue?style=flat-square&logo=linkedin" />
   </a>
 </p>
 
 ---
 
-## ⚡ About Me
+## 🚀 About Me
 
-- Passionate about uncovering and fixing security flaws 🔍  
-- Focused on mastering penetration testing & web security  
-- Active on TryHackMe and PortSwigger Labs sharpening skills  
-- Based in Meknès, Morocco — ready to secure the digital world 🌍  
-
----
-
-## 🛠️ Skills & Tools
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-  <img src="https://img.icons8.com/color/48/000000/burp-suite.png" width="40" height="40" alt="Burp Suite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-</div>
+- Passionate about cybersecurity & ethical hacking  
+- Exploring penetration testing, XXE, blind XXE, and web vulnerabilities  
+- Active on TryHackMe & PortSwigger Labs sharpening my skills  
+- Based in Meknès, Morocco, eager to learn and grow  
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Skills
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kabilala&show_icons=true&theme=radical" alt="Kabilala's GitHub Stats" />
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
+  <img alt="Burp Suite" src="https://img.icons8.com/color/48/000000/burp-suite.png" width="40" height="40" />
+  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
 </p>
 
 ---
 
-## 🎯 Projects Highlights
+## 📊 GitHub Stats
 
-- **XXE Labs**: Hands-on experience exploiting XML External Entity vulnerabilities  
-- **Pentesting Scripts**: Python automation tools for security testing  
-- **Security Reports**: Clear, structured vulnerability assessments  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kabilala&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabilala&hide=html&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 🔥 Fun Fact
+## 📫 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaouthar-belkebir-ab453223b" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kabilala-blue?style=flat-square&logo=linkedin" />
+  </a>
+</p>
+
+---
 
 > *“Every system has a weakness — I’m here to find it.”*
-
----
-
-Thanks for visiting my profile!  
-Feel free to connect on LinkedIn for collaboration and cybersecurity discussions.
 
