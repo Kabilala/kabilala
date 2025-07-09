@@ -1,52 +1,75 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<!-- Proudly powered by ChatGPT & Kawtar's 🔥 energy -->
 
-###
+<h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/kaouthar-belkebir-ab453223b" target="_blank">Kaouthar Belkebir</a> 👩‍💻</h1>
+<p align="center">
+  <em>Cybersecurity Enthusiast & Penetration Tester in the making</em>
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaouthar-belkebir-ab453223b" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kaouthar-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://www.credly.com/users/kawtar-belkebir" target="_blank">
+    <img alt="Certifications" src="https://img.shields.io/badge/Certifications-🎓-green?style=flat-square" />
+  </a>
+  <a href="mailto:kaouthar@example.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-kaouthar%40example.com-red?style=flat-square&logo=gmail" />
+  </a>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+## 🚀 About Me
 
-###
+- 🎯 Passionate about **Cybersecurity**, specializing in **Penetration Testing** and **Vulnerability Research**  
+- 💻 Experienced with **PortSwigger Labs**, **TryHackMe**, and real-world web app hacking  
+- 📚 Lifelong learner — currently mastering **Blind XXE**, **Server-side Exploits**, and **Advanced Web Security**  
+- 🌍 Based in Meknès, Morocco — ready to conquer the cybersecurity world!  
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
+  <img alt="Burp Suite" src="https://img.icons8.com/color/48/000000/burp-suite.png" width="40" height="40" />
+  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+## 📈 GitHub Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaoutharBelkebir&show_icons=true&theme=radical" alt="Kaouthar's GitHub Stats" />
+</p>
+
+---
+
+## 🎯 Latest Projects
+
+- 🔐 **XXE Exploitation Labs** — In-depth practical experience with XML External Entity attacks and blind XXE  
+- 🧪 **Pentesting Automation Scripts** — Python tools to automate vulnerability scanning and reporting  
+- 📊 **Security Reports** — Clear, structured vulnerability analyses and remediation plans  
+
+---
+
+## 💡 Fun Fact
+
+> "A secure system is only as strong as its weakest link — and I'm here to find it."
+
+---
+
+## 🤝 Let’s Connect!
+
+<p align="center">
+  <a href="https://twitter.com/kaouthar" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-@kaouthar-1DA1F2?style=flat-square&logo=twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/kaouthar-belkebir-ab453223b" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kaouthar-blue?style=flat-square&logo=linkedin" />
+  </a>
+</p>
