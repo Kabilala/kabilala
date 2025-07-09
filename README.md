@@ -11,11 +11,8 @@
 ---
 
 ## 🚀 About Me
-
-- Passionate about cybersecurity & ethical hacking  
-- Exploring penetration testing, XXE, blind XXE, and web vulnerabilities  
-- Active on TryHackMe & PortSwigger Labs sharpening my skills  
-- Based in Meknès, Morocco, eager to learn and grow  
+I specialize in penetration testing and CTF challenges. I thrive on identifying vulnerabilities, crafting exploit strategies, and documenting reports
+   
 
 ---
 
