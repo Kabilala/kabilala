@@ -1,90 +1,44 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h2 align="left">Hi 👋! My name is Kabilala and I'm a passionate cybersecurity learner from Morocco 🇲🇦</h2>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/000000/burp-suite.png" height="60" alt="burp suite logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kabilala&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kabilala&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/kaouthar-belkebir-ab453223b" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" alt="LinkedIn" height="25" />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="hacker gif" />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/000000/burp-suite.png" height="30" alt="burp suite logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/kaouthar-belkebir-ab453223b" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
 
----
+###
 
-# 👋 Hi, I'm Kabilala
+<br clear="both">
 
-## 🚀 Cybersecurity Enthusiast | Aspiring Penetration Tester | Lifelong Learner
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake contribution animation" />
 
----
-
-## ⚡ About Me
-
-- Passionate about cybersecurity, focusing on penetration testing and vulnerability research  
-- Experienced with PortSwigger Labs, TryHackMe, and hands-on XXE exploitation  
-- Based in Meknès, Morocco — ready to secure the digital world 🌍  
-
----
-
-## 🛠️ Skills & Tools
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-  <img src="https://img.icons8.com/color/48/000000/burp-suite.png" width="40" height="40" alt="Burp Suite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kabilala&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabilala&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 🎯 Projects Highlights
-
-- **XXE Exploitation Labs**: Practical experience in XML External Entity vulnerabilities  
-- **Pentesting Automation**: Python scripts enhancing security assessments  
-- **Security Reports**: Clear and professional vulnerability documentation  
-
----
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kabilala&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub Streak Stats" />
-  <img src="https://github-profile-trophy.vercel.app?username=Kabilala&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="GitHub Trophy Stats" />
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kabilala/Kabilala/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kabilala/Kabilala/output/pacman-contribution-graph.svg" />
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Kabilala/Kabilala/output/pacman-contribution-graph.svg" />
-</picture>
-
----
-
-> *“Every system has a weakness — I’m here to find it.”*
-
----
-
-Thanks for stopping by! Feel free to connect with me on LinkedIn for collaborations and discussions.
+###
