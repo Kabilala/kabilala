@@ -1,44 +1,68 @@
-<h2 align="left">Hi 👋! My name is Kabilala and I'm a passionate cybersecurity learner from Morocco 🇲🇦</h2>
+<h1 align="center">Hey 👋 What's Up? I'm Kabilala aka Kaouthar Belkebir</h1>
 
-###
+<p align="center">🚨 Offensive Security Enthusiast | 👩‍💻 Passionate About Pentesting | 🛡️ Future Cybersecurity Consultant</p>
+
+---
+
+<h2 align="center">🔥 On a mission to break things (ethically)... and make the digital world safer 🔐</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kabilala&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kabilala&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://skillicons.dev/icons?i=py,linux,bash,docker,git,aws" height="50" alt="stack" />
+  <img src="https://img.icons8.com/color/48/000000/burp-suite.png" height="48" alt="Burp Suite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VSCode" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="hacker gif" />
+<img align="right" height="180" src="https://i.imgflip.com/65efzo.gif" alt="hacker gif" />
 
-###
+### 🧠 Currently learning:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/000000/burp-suite.png" height="30" alt="burp suite logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+- 🔓 Web Exploitation: XSS, SQLi, XXE, CSRF, Auth Bypass…
+- 💻 Labs on: PortSwigger, TryHackMe, Hack The Box
+- 🧪 Projects: Honeypots, Phishing detectors, custom tools
+- 📖 Reading: *The Web Application Hacker's Handbook* & *Georgia Weidman’s Pentesting Guide*
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kabilala&show_icons=true&count_private=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabilala&layout=compact&theme=dracula" height="150" />
 </div>
 
-###
+---
 
-<div align="left">
+### 🏆 Extra Flex Zone
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Kabilala&theme=dracula&hide_border=false&border_radius=5&mode=daily" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=Kabilala&theme=dracula&row=1&column=3" height="150" />
+</div>
+
+---
+
+### 🕵️‍♀️ Let’s Connect
+
+<div align="center">
   <a href="https://www.linkedin.com/in/kaouthar-belkebir-ab453223b" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
+### 👾 Contribution Fun
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake contribution animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-###
+---
+
+> 🧩 "In a world full of firewalls, be the Zero-Day they never saw coming."  
+> — Kabilala
