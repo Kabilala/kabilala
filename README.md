@@ -1,42 +1,32 @@
-<!-- Proudly powered by ChatGPT & Kawtar's 🔥 energy -->
+# 👋 Hey, I'm **Kabilala**
 
-<h1 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/kaouthar-belkebir-ab453223b" target="_blank">Kaouthar Belkebir</a> 👩‍💻</h1>
-<p align="center">
-  <em>Cybersecurity Enthusiast & Penetration Tester in the making</em>
-</p>
+## 🚀 Cybersecurity Enthusiast | Aspiring Penetration Tester | Lifelong Learner
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaouthar-belkebir-ab453223b" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kaouthar-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://www.credly.com/users/kawtar-belkebir" target="_blank">
-    <img alt="Certifications" src="https://img.shields.io/badge/Certifications-🎓-green?style=flat-square" />
-  </a>
-  <a href="mailto:kaouthar@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-kaouthar%40example.com-red?style=flat-square&logo=gmail" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kabilala-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## ⚡ About Me
 
-- 🎯 Passionate about **Cybersecurity**, specializing in **Penetration Testing** and **Vulnerability Research**  
-- 💻 Experienced with **PortSwigger Labs**, **TryHackMe**, and real-world web app hacking  
-- 📚 Lifelong learner — currently mastering **Blind XXE**, **Server-side Exploits**, and **Advanced Web Security**  
-- 🌍 Based in Meknès, Morocco — ready to conquer the cybersecurity world!  
+- Passionate about uncovering and fixing security flaws 🔍  
+- Focused on mastering penetration testing & web security  
+- Active on TryHackMe and PortSwigger Labs sharpening skills  
+- Based in Meknès, Morocco — ready to secure the digital world 🌍  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Skills & Tools
 
 <div align="center">
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-  <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
-  <img alt="Burp Suite" src="https://img.icons8.com/color/48/000000/burp-suite.png" width="40" height="40" />
-  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  <img src="https://img.icons8.com/color/48/000000/burp-suite.png" width="40" height="40" alt="Burp Suite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
 </div>
 
 ---
@@ -44,32 +34,25 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaoutharBelkebir&show_icons=true&theme=radical" alt="Kaouthar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kabilala&show_icons=true&theme=radical" alt="Kabilala's GitHub Stats" />
 </p>
 
 ---
 
-## 🎯 Latest Projects
+## 🎯 Projects Highlights
 
-- 🔐 **XXE Exploitation Labs** — In-depth practical experience with XML External Entity attacks and blind XXE  
-- 🧪 **Pentesting Automation Scripts** — Python tools to automate vulnerability scanning and reporting  
-- 📊 **Security Reports** — Clear, structured vulnerability analyses and remediation plans  
-
----
-
-## 💡 Fun Fact
-
-> "A secure system is only as strong as its weakest link — and I'm here to find it."
+- **XXE Labs**: Hands-on experience exploiting XML External Entity vulnerabilities  
+- **Pentesting Scripts**: Python automation tools for security testing  
+- **Security Reports**: Clear, structured vulnerability assessments  
 
 ---
 
-## 🤝 Let’s Connect!
+## 🔥 Fun Fact
 
-<p align="center">
-  <a href="https://twitter.com/kaouthar" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-@kaouthar-1DA1F2?style=flat-square&logo=twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/kaouthar-belkebir-ab453223b" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kaouthar-blue?style=flat-square&logo=linkedin" />
-  </a>
-</p>
+> *“Every system has a weakness — I’m here to find it.”*
+
+---
+
+Thanks for visiting my profile!  
+Feel free to connect on LinkedIn for collaboration and cybersecurity discussions.
+
